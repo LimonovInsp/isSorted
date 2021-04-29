@@ -5,7 +5,7 @@ Implement a function to consider an accepted array's sequence
 2. A function should consider an empty array
 
 Initial structure:
-```
+```javascript
 
 function isSorted(array) {
   // write code
